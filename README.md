@@ -4,30 +4,15 @@ I build data, AI, and platform systems with a focus on reliable application deve
 
 ### Core stack
 
-<img src="assets/python.svg" alt="Python" height="28" />
-<img src="assets/fastapi.svg" alt="FastAPI" height="28" />
-<img src="assets/postgresql.svg" alt="PostgreSQL" height="28" />
-<img src="assets/git.svg" alt="Git" height="28" />
-<img src="assets/github.svg" alt="GitHub" height="28" />
-<img src="assets/github_actions.svg" alt="GitHub Actions" height="28" />
+<img src="assets/python.svg" alt="Python" height="28" /><img src="assets/fastapi.svg" alt="FastAPI" height="28" /><img src="assets/postgresql.svg" alt="PostgreSQL" height="28" /><img src="assets/git.svg" alt="Git" height="28" /><img src="assets/github.svg" alt="GitHub" height="28" /><img src="assets/github_actions.svg" alt="GitHub Actions" height="28" />
 
 ### Platform & data
 
-<img src="assets/docker.svg" alt="Docker" height="28" />
-<img src="assets/kubernetes.svg" alt="Kubernetes" height="28" />
-<img src="assets/argocd.svg" alt="ArgoCD" height="28" />
-<img src="assets/azure.svg" alt="Azure" height="28" />
-<img src="assets/databricks.svg" alt="Databricks" height="28" />
+<img src="assets/docker.svg" alt="Docker" height="28" /><img src="assets/kubernetes.svg" alt="Kubernetes" height="28" /><img src="assets/argocd.svg" alt="ArgoCD" height="28" /><img src="assets/azure.svg" alt="Azure" height="28" /><img src="assets/databricks.svg" alt="Databricks" height="28" />
 
 ### AI & observability
 
-<img src="assets/openai.svg" alt="OpenAI" height="28" />
-<img src="assets/langchain.svg" alt="LangChain" height="28" />
-<img src="assets/pytorch.svg" alt="PyTorch" height="28" />
-<img src="assets/mlflow.svg" alt="MLflow" height="28" />
-<img src="assets/prometheus.svg" alt="Prometheus" height="28" />
-<img src="assets/grafana.svg" alt="Grafana" height="28" />
-<img src="assets/linux.svg" alt="Linux" height="28" />
+<img src="assets/openai.svg" alt="OpenAI" height="28" /><img src="assets/langchain.svg" alt="LangChain" height="28" /><img src="assets/pytorch.svg" alt="PyTorch" height="28" /><img src="assets/mlflow.svg" alt="MLflow" height="28" /><img src="assets/prometheus.svg" alt="Prometheus" height="28" /><img src="assets/grafana.svg" alt="Grafana" height="28" /><img src="assets/linux.svg" alt="Linux" height="28" />
 
 ### Areas of focus
 
